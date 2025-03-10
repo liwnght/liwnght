@@ -1,8 +1,8 @@
 <head>
- <h2> A little about me:</h2>
+ <h1> 🎀💻 A little about me:</h1>
 </head>
 <body>
-  <h1><i>Hi!</i></h1>
+  <p><b>Hi!</b></p>
   <p>My name is Elizaveta 👀</p>
   <p>I'm studying software development and maintenance at Minsk Technological College.
  <br> I'm in my second year.</p>
@@ -10,4 +10,4 @@
   <br>I also participated in webinars and intensive workshops at Incubator. 😎</p>
 </body>
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYtbz9_FeUiLpE_KdOU0Da8W5X_fLKYqVMg&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1YAGaP20dGNKppxEXdSg0ADBYbkp7QP5a9w&s)
